@@ -10,3 +10,4 @@ May you re-synthesize the image such that the image you generate resembles the o
 
 [Optional] Can you resynthesize an image, by "some modification suggestions" 
 
+[Optional, directly provide an image] Please resynthesize an image similar to the one that I now provide, taken from the driver's view
