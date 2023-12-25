@@ -160,3 +160,4 @@ cython_debug/
 #.idea/
 
 tmp*
+data/KITTI_Syn_DALLE3/*

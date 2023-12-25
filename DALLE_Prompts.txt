@@ -1,0 +1,12 @@
+Can you provide a summary of an image?
+
+Here is an image. Please provide the summary.
+
+Please generate an image, based on your provided textual description. Also, the image should be taken from the driver's view. 
+
+May you re-synthesize the image such that the image you generate resembles the one I just provided?
+
+[If the steering wheel is too high] May you re-synthesize the image such that the image is not from the driver's view?
+
+[Optional] Can you resynthesize an image, by "some modification suggestions" 
+
