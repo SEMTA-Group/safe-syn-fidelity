@@ -51,7 +51,7 @@ In the "output folder" option, select [data/Syn_DALLE3_Label/PASCAL_VOC](data/Sy
 Step 5: Generate the labels into KITTI form
 
 ```console
-python xml2kitti.py data/Syn_DALLE3_Label/PASCAL_VOC
+python xml2kitti.py data/KITTI_Syn_DALLE3_Label/PASCAL_VOC
 ```
 
 The KITTI label (in .txt) will be stored in the same folder. 
