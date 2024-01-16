@@ -75,6 +75,7 @@ def main():
 
     # remove script name
     args = sys.argv[1:]
+    print(args)
     processed_file_count = 0
 
     for path in args:
@@ -84,8 +85,9 @@ def main():
             files.append(path)
         elif isdir(path):
             files += get_directory_xml_files(path)
-
+            print(len(files))
         for file in files:
+            print(file)
             if process_file(file): processed_file_count += 1
 
     print("Finished. {0} Files are processed".format(processed_file_count))

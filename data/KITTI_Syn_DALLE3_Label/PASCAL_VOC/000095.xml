@@ -1,7 +1,7 @@
 <annotation>
 	<folder>KITTI_Syn_DALLE3_Resize</folder>
-	<filename>000016.png</filename>
-	<path>C:\Work\Github\safe-syn-fidelity\data\KITTI_Syn_DALLE3_Resize\000016.png</path>
+	<filename>000095.png</filename>
+	<path>C:\Work\Github\safe-syn-fidelity\data\KITTI_Syn_DALLE3_Resize\000095.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>191</ymin>
-			<xmax>205</xmax>
-			<ymax>358</ymax>
+			<xmin>963</xmin>
+			<ymin>177</ymin>
+			<xmax>1002</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,22 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>299</xmin>
-			<ymin>192</ymin>
-			<xmax>385</xmax>
-			<ymax>257</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>463</xmin>
+			<xmin>629</xmin>
 			<ymin>203</ymin>
-			<xmax>577</xmax>
-			<ymax>310</ymax>
+			<xmax>762</xmax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,22 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>706</xmin>
-			<ymin>198</ymin>
-			<xmax>780</xmax>
-			<ymax>249</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>828</xmin>
-			<ymin>1</ymin>
-			<xmax>1241</xmax>
-			<ymax>341</ymax>
+			<xmin>110</xmin>
+			<ymin>196</ymin>
+			<xmax>323</xmax>
+			<ymax>307</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>560</xmin>
-			<ymin>194</ymin>
-			<xmax>588</xmax>
-			<ymax>219</ymax>
+			<xmin>278</xmin>
+			<ymin>180</ymin>
+			<xmax>386</xmax>
+			<ymax>260</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>378</xmin>
-			<ymin>199</ymin>
-			<xmax>425</xmax>
-			<ymax>230</ymax>
+			<xmin>380</xmin>
+			<ymin>179</ymin>
+			<xmax>442</xmax>
+			<ymax>222</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -101,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>421</xmin>
-			<ymin>195</ymin>
-			<xmax>451</xmax>
-			<ymax>223</ymax>
+			<xmin>431</xmin>
+			<ymin>177</ymin>
+			<xmax>467</xmax>
+			<ymax>209</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -113,10 +89,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>612</xmin>
-			<ymin>195</ymin>
-			<xmax>644</xmax>
-			<ymax>217</ymax>
+			<xmin>593</xmin>
+			<ymin>191</ymin>
+			<xmax>656</xmax>
+			<ymax>240</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>576</xmin>
+			<ymin>186</ymin>
+			<xmax>616</xmax>
+			<ymax>216</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>561</xmin>
+			<ymin>181</ymin>
+			<xmax>586</xmax>
+			<ymax>207</ymax>
 		</bndbox>
 	</object>
 </annotation>

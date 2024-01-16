@@ -155,4 +155,28 @@
 			<ymax>204</ymax>
 		</bndbox>
 	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>419</xmin>
+			<ymin>144</ymin>
+			<xmax>453</xmax>
+			<ymax>179</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>436</xmin>
+			<ymin>136</ymin>
+			<xmax>469</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
 </annotation>
