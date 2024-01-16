@@ -54,5 +54,4 @@ Step 5: Generate the labels into KITTI form
 python xml2kitti.py data/KITTI_Syn_DALLE3_Label/PASCAL_VOC
 ```
 
-The KITTI label (in .txt) will be stored in the same folder. 
-
+The KITTI label (in .txt) will be stored in the same folder. Then you can copy the .txt labels to the folder [data/KITTI_Syn_DALLE3_Label/KITTI](data/KITTI_Syn_DALLE3_Label/KITTI), and subsequently, to the training dataset [data/data_syn_DALLE3/Kitti/raw/training/label_2](data/data_syn_DALLE3/Kitti/raw/training/label_2)
