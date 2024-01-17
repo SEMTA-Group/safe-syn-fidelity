@@ -3,3 +3,4 @@ person
 car
 bicycle
 train
+cyclist

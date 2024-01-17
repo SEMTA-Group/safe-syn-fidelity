@@ -1,7 +1,7 @@
 <annotation>
-	<folder>KITTI_Syn_DALLE3_Resize</folder>
+	<folder>image_2</folder>
 	<filename>000046.png</filename>
-	<path>C:\Work\Github\safe-syn-fidelity\data\KITTI_Syn_DALLE3_Resize\000046.png</path>
+	<path>C:\Users\Historischer\Downloads\safe-syn-fidelity\data\data_syn_DALLE3\Kitti\raw\training\image_2\000046.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,18 +81,6 @@
 			<ymin>129</ymin>
 			<xmax>1206</xmax>
 			<ymax>246</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bicycle</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1147</xmin>
-			<ymin>182</ymin>
-			<xmax>1242</xmax>
-			<ymax>251</ymax>
 		</bndbox>
 	</object>
 	<object>

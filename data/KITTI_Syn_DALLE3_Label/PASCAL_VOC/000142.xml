@@ -1,7 +1,7 @@
 <annotation>
-	<folder>NewDalle</folder>
+	<folder>image_2</folder>
 	<filename>000142.png</filename>
-	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000142.png</path>
+	<path>C:\Users\Historischer\Downloads\safe-syn-fidelity\data\data_syn_DALLE3\Kitti\raw\training\image_2\000142.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,7 +12,7 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>bicycle</name>
+		<name>cyclist</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
