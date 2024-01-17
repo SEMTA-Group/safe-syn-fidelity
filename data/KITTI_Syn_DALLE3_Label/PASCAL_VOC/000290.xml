@@ -1,7 +1,7 @@
 <annotation>
-	<folder>NewDalle</folder>
+	<folder>KITTI_Syn_DALLE3_Resize</folder>
 	<filename>000290.png</filename>
-	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000290.png</path>
+	<path>C:\Work\Github\safe-syn-fidelity\data\KITTI_Syn_DALLE3_Resize\000290.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,42 @@
 			<ymin>203</ymin>
 			<xmax>895</xmax>
 			<ymax>229</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>4</xmin>
+			<ymin>208</ymin>
+			<xmax>111</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>86</xmin>
+			<ymin>208</ymin>
+			<xmax>193</xmax>
+			<ymax>284</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>bicycle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>201</ymin>
+			<xmax>272</xmax>
+			<ymax>280</ymax>
 		</bndbox>
 	</object>
 </annotation>

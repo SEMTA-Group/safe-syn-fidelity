@@ -1,7 +1,7 @@
-<annotation>
-	<folder>NewDalle</folder>
+<annotation verified="yes">
+	<folder>KITTI_Syn_DALLE3_Resize</folder>
 	<filename>000095.png</filename>
-	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000095.png</path>
+	<path>C:\Work\Github\safe-syn-fidelity\data\KITTI_Syn_DALLE3_Resize\000095.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
