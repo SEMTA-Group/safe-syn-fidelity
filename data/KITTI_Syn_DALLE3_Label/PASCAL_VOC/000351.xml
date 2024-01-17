@@ -1,7 +1,7 @@
 <annotation>
 	<folder>NewDalle</folder>
-	<filename>000083.png</filename>
-	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000083.png</path>
+	<filename>000351.png</filename>
+	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000351.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>950</xmin>
-			<ymin>195</ymin>
-			<xmax>1228</xmax>
-			<ymax>350</ymax>
+			<xmin>301</xmin>
+			<ymin>264</ymin>
+			<xmax>409</xmax>
+			<ymax>347</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -29,10 +29,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>677</xmin>
-			<ymin>174</ymin>
-			<xmax>813</xmax>
-			<ymax>300</ymax>
+			<xmin>475</xmin>
+			<ymin>285</ymin>
+			<xmax>510</xmax>
+			<ymax>320</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -41,10 +41,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>798</xmin>
-			<ymin>182</ymin>
-			<xmax>867</xmax>
-			<ymax>251</ymax>
+			<xmin>543</xmin>
+			<ymin>287</ymin>
+			<xmax>573</xmax>
+			<ymax>313</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -53,10 +53,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>506</xmin>
-			<ymin>200</ymin>
-			<xmax>628</xmax>
-			<ymax>289</ymax>
+			<xmin>525</xmin>
+			<ymin>286</ymin>
+			<xmax>547</xmax>
+			<ymax>302</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,10 +65,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>610</xmin>
-			<ymin>197</ymin>
-			<xmax>658</xmax>
-			<ymax>243</ymax>
+			<xmin>635</xmin>
+			<ymin>286</ymin>
+			<xmax>718</xmax>
+			<ymax>346</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -77,10 +77,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>432</xmin>
-			<ymin>201</ymin>
-			<xmax>522</xmax>
-			<ymax>266</ymax>
+			<xmin>1098</xmin>
+			<ymin>274</ymin>
+			<xmax>1238</xmax>
+			<ymax>342</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -89,46 +89,22 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>334</xmin>
-			<ymin>193</ymin>
-			<xmax>421</xmax>
-			<ymax>251</ymax>
+			<xmin>39</xmin>
+			<ymin>290</ymin>
+			<xmax>123</xmax>
+			<ymax>333</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>bicycle</name>
+		<name>car</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>207</xmin>
-			<ymin>194</ymin>
-			<xmax>269</xmax>
-			<ymax>285</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>bicycle</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>71</xmin>
-			<ymin>177</ymin>
-			<xmax>134</xmax>
-			<ymax>280</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>person</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>138</xmin>
-			<ymin>175</ymin>
-			<xmax>179</xmax>
-			<ymax>250</ymax>
+			<xmin>129</xmin>
+			<ymin>289</ymin>
+			<xmax>198</xmax>
+			<ymax>330</ymax>
 		</bndbox>
 	</object>
 </annotation>

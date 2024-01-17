@@ -1,7 +1,7 @@
 <annotation>
 	<folder>NewDalle</folder>
-	<filename>000080.png</filename>
-	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000080.png</path>
+	<filename>000190.png</filename>
+	<path>C:\Users\Historischer\Downloads\labelImg-master\labelImg-master\data1\NewDalle\000190.png</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,58 +17,58 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>213</xmin>
-			<ymin>214</ymin>
-			<xmax>413</xmax>
-			<ymax>362</ymax>
+			<xmin>478</xmin>
+			<ymin>25</ymin>
+			<xmax>701</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>566</xmin>
-			<ymin>221</ymin>
-			<xmax>630</xmax>
-			<ymax>279</ymax>
+			<xmin>754</xmin>
+			<ymin>74</ymin>
+			<xmax>783</xmax>
+			<ymax>190</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>bicycle</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>494</xmin>
-			<ymin>202</ymin>
-			<xmax>534</xmax>
-			<ymax>239</ymax>
+			<xmin>703</xmin>
+			<ymin>45</ymin>
+			<xmax>734</xmax>
+			<ymax>151</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>526</xmin>
-			<ymin>202</ymin>
-			<xmax>550</xmax>
-			<ymax>226</ymax>
+			<xmin>366</xmin>
+			<ymin>47</ymin>
+			<xmax>401</xmax>
+			<ymax>135</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>car</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>819</xmin>
-			<ymin>166</ymin>
-			<xmax>925</xmax>
-			<ymax>264</ymax>
+			<xmin>405</xmin>
+			<ymin>41</ymin>
+			<xmax>419</xmax>
+			<ymax>97</ymax>
 		</bndbox>
 	</object>
 </annotation>
