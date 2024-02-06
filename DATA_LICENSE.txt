@@ -1,0 +1,7 @@
+KITTI Dataset License
+
+The KITTI data included in this repository is made available under the terms and conditions set forth by the original KITTI license. This includes, but is not limited to, restrictions on the use and distribution of the data.
+
+Please consult the KITTI dataset's official website (https://www.cvlibs.net/datasets/kitti/) or contact the KITTI dataset providers for the full license terms.
+
+This notice does not grant any licenses to the KITTI dataset and is provided for informational purposes only.
