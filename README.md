@@ -1,6 +1,16 @@
 # safe-syn-fidelity
 safety-aware fidelity calibration of synthetic data generators
 
+### Licensing
+
+#### Code
+The source code in this repository is distributed under the Apache License 2.0. See the [LICENSE](./LICENSE) file for the full license text.
+
+#### Data
+The KITTI data included in this repository is subject to its original license terms. The KITTI dataset is used in accordance with its license, and details can be found in the [DATA_LICENSE.txt](./DATA_LICENSE.txt) file. Users are responsible for adhering to the KITTI license terms when using this data.
+
+
+
 ### Limitations
 
 The image generation process by ChatGPT4.0 + DALLE requires further fine-tuning; when comparing the image pairs in DALLE and in KITTI, one can still feel the strong difference. However, currently this is not done. 
