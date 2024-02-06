@@ -11,7 +11,7 @@ The KITTI data included in this repository is subject to its original license te
 
 ### B. Quick start
 
-Run one of the jupyter notebooks, in order to replicate the experiment. 
+Run one of the jupyter notebooks with names started with "RQ", in order to replicate the experiment. 
 
 ### C. Folder structure
 
