@@ -2,7 +2,11 @@ Can you provide a summary of an image?
 
 Here is an image. Please provide the summary.
 
+[Optional] Can you summarize further by giving a list of "attribute, value" pairs? 
+
 Please generate an image, based on your provided textual description. Also, the image should be taken from the driver's view. 
+
+[Optional] Please generate an image, based on your provided textual description and your created list of attribute-value pairs. Also, the image should be taken from the driver's view. 
 
 May you re-synthesize the image such that the image you generate resembles the one I just provided?
 
